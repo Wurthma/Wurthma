@@ -14,4 +14,4 @@ Hoje sou especializado em ASP .Net, .Net Core e .Net 5 para desenvolvimento web 
 Aplos conhecimentos em DevOps Azure, WebForms, Javascript (JQuery, Ajax, etc), Bootstrap entre outras tecnologias e frameworks relacionados ao desenvolvimento de aplicações web. 
 
 ### Para mais detalhes:
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Perfil linkedin" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/wurthmann" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Perfil linkedin" width="40" height="40"/> </a></p>
