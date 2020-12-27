@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, world! 👋
 
-<!--
-**Wurthma/Wurthma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **George** e aqui embaixo você pode saber um pouco mais sobre mim.
 
-Here are some ideas to get you started:
+## Com o que eu trabalho?
+<p align="left"> <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg" alt="C#" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/net-gs-1.svg" alt="dotnet core" width="40" height="40"/> </a> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg" alt="dotnet core" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"> <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netframework.svg" alt="Microsoft .Net Framework" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="SQL Server" width="40" height="40"/> </a> <a href="https://docs.oracle.com/en/database/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="Oracle database" width="80" height="80"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 About: George Wurthmann
+
+Sou graduado em Análise de Sistemas (2014) e Sistemas de Informação (2016), mas tive os primeiros contatos com a área de tecnologia em 2008 mais voltado a redes suporte e manutenção, nesse mesmo período fui monitor de informática e professor de manutenção de computadores. Mas já engatinhava com a programação com certas experiência amadoras com desenvolvimento web. Comecei a trabalhar no setor de T.I. em 2012 formalmente, mas ainda como suporte e posteriormente me especializando em desenvolvimento Web.
+
+Hoje sou especializado em ASP .Net, .Net Core e .Net 5 para desenvolvimento web com C#, API, MVC, Entity Framework,  Angular 2+, SQL, Banco de Dados Oracle, PL/SQL, MSSQL, TransactSQL, Triggers, Procedures, etc.
+Aplos conhecimentos em DevOps Azure, WebForms, Javascript (JQuery, Ajax, etc), Bootstrap entre outras tecnologias e frameworks relacionados ao desenvolvimento de aplicações web. 
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="Perfil linkedin" width="120" height="120"/> </a></p>
