@@ -8,7 +8,7 @@ Me chamo **George** e aqui embaixo você pode saber um pouco mais sobre mim.
 
 ## 📌 About: George Wurthmann
 
-Sou graduado em Análise de Sistemas (2014) e Sistemas de Informação (2016), mas tive os primeiros contatos com a área de tecnologia em 2008 mais voltado a redes, suporte e manutenção, nesse mesmo período fui monitor de informática e professor de manutenção de computadores. Mas já engatinhava com a programação com certas experiência amadoras com desenvolvimento web. Comecei a trabalhar no setor de T.I. em 2012 formalmente, mas ainda como suporte e posteriormente me especializando em desenvolvimento Web com que trabalho desde 2014.
+Sou graduado em Análise de Sistemas (2014) e Sistemas de Informação (2016), mas tive os primeiros contatos com a área de tecnologia em 2008 mais voltado a redes, suporte e manutenção. Nesse mesmo período fui monitor de informática e professor de manutenção de computadores, mas já engatinhava com a programação com certas experiências amadoras com desenvolvimento web. Comecei a trabalhar no setor de T.I. formalmente em 2012, mas ainda como suporte e posteriormente me especializando em desenvolvimento Web com que trabalho desde 2014.
 
 Hoje sou especializado em ASP .Net, .Net Core e .Net 5 para desenvolvimento web com C#, API, MVC, Entity Framework,  Angular 2+, SQL, Banco de Dados Oracle, PL/SQL, MSSQL, TransactSQL, Triggers, Procedures, etc.
 Amplos conhecimentos em DevOps Azure, WebForms, Javascript (JQuery, Ajax, etc), Bootstrap entre outras tecnologias e frameworks relacionados ao desenvolvimento de aplicações web. 
