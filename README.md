@@ -1,10 +1,6 @@
 ## Hello, world! 👋
 
 Me chamo **George** e aqui embaixo você pode saber um pouco mais sobre mim.
-<!--
-## Com o que eu trabalho?
-<p align="left"> <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg" alt="C#" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/net-gs-1.svg" alt="dotnet core" width="40" height="40"/> </a> </a> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg" alt="dotnet core" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netframework.svg" alt="Microsoft .Net Framework" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"><img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="SQL Server" width="40" height="40"/> </a> <a href="https://docs.oracle.com/en/database/" target="_blank"><img src="https://camo.githubusercontent.com/24f0cb9a795a127feffe9a33b9b5f1bc593d6a751bf481b9355be1174dd77b2e/68747470733a2f2f7777772e74656e666f6c642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f69636f6e2d6f7261636c652d73616c65732d636c6f75642e706e67" alt="Oracle database" width="40" height="40"/> </a> </p>
--->
 
 ## 📌 About: George Wurthmann
 
@@ -13,5 +9,20 @@ Sou graduado em Análise de Sistemas (2014) e Sistemas de Informação (2016), m
 Hoje sou especializado em ASP .Net, .Net Core e .Net 5 para desenvolvimento web com C#, API, MVC, Entity Framework,  Angular 2+, SQL, Banco de Dados Oracle, PL/SQL, MSSQL, TransactSQL, Triggers, Procedures, etc.
 Amplos conhecimentos em DevOps Azure, WebForms, Javascript (JQuery, Ajax, etc), Bootstrap entre outras tecnologias e frameworks relacionados ao desenvolvimento de aplicações web. 
 
+<!--
 ### Para mais detalhes:
 <p align="left"> <a href="https://www.linkedin.com/in/wurthmann" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Perfil linkedin" width="40" height="40"/> </a></p>
+-->
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wurthma&show_icons=true&theme=radical"> 
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wurthma&layout=compact&theme=radical"> 
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/wurthmann" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Mutti-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-mutti-0418bb1aa/"/></a>
+<a href="mailto:gemakai@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-gemakai@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gemakai@gmail.com"/></a>
+</p>
