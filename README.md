@@ -23,6 +23,6 @@ Amplos conhecimentos em DevOps Azure, WebForms, Javascript (JQuery, Ajax, etc), 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wurthmann" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Mutti-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-mutti-0418bb1aa/"/></a>
+<a href="https://www.linkedin.com/in/wurthmann" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-George%20Wurthmann-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wurthmann"/></a>
 <a href="mailto:gemakai@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-gemakai@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gemakai@gmail.com"/></a>
 </p>
